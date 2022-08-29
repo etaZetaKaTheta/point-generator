@@ -1,0 +1,3 @@
+C:/Users/traut/Desktop/point-generator/out/build/x64-debug/CMakeFiles/point-generator.dir
+C:/Users/traut/Desktop/point-generator/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/traut/Desktop/point-generator/out/build/x64-debug/CMakeFiles/rebuild_cache.dir

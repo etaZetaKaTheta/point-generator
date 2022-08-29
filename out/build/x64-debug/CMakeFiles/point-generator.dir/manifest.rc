@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/traut/Desktop/point-generator/out/build/x64-debug/CMakeFiles/point-generator.dir/embed.manifest"
