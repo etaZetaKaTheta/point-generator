@@ -1,0 +1,12 @@
+# ninja log v5
+5	767	6835164624912336	CMakeFiles/point-generator.dir/src/glad.c.obj	8cf3d718e8bc6ec0
+32	786	6835164623812270	CMakeFiles/point-generator.dir/src/imgui_impl_opengl3.cpp.obj	126f2ad7a2ebc58a
+20	1060	6835164627892918	CMakeFiles/point-generator.dir/src/imgui_tables.cpp.obj	6e62d612f149d39e
+28	2108	6835164638393467	CMakeFiles/point-generator.dir/src/imgui_impl_glfw.cpp.obj	6c28a763786ab750
+8	2249	6835164639784833	CMakeFiles/point-generator.dir/src/imgui_draw.cpp.obj	fa9a30abd7411747
+36	2377	6835164641094843	CMakeFiles/point-generator.dir/src/shader.cpp.obj	863b8eff62f5466e
+1	2622	6835164643534845	CMakeFiles/point-generator.dir/src/main.cpp.obj	8806ce79e7a6d81d
+24	2781	6835164645166309	CMakeFiles/point-generator.dir/src/imgui_widgets.cpp.obj	c0be06ff44bc33a
+12	3297	6835164650296290	CMakeFiles/point-generator.dir/src/imgui.cpp.obj	3f34929a01f1ef45
+15	4951	6835164666856280	CMakeFiles/point-generator.dir/src/imgui_demo.cpp.obj	ddcdf3fcfe8a2449
+4952	5401	6835164671377006	point-generator.exe	5aa5eb236b7d438e
